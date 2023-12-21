@@ -18,13 +18,13 @@ The data cleaning was the following :
 
 Check of null data
 Taking off unrelevant data and standardization of the values :  
-  ⦁	Marital status
-    ⦁	"Absurd", "YOLO" = Unanswered
-    ⦁	"Alone" = Single
-    ⦁	"Together" = Couple
-  ⦁	Income : empty lines were deleted
-  ⦁	Year of Birth : Taking off a few outliers born before 1940
-  ⦁	Graduation
-    ⦁	"Graduation" = Bachelor
-    ⦁	"Basic" = High school 
-    ⦁	"2nd cycle" = master
+- Marital status
+-- "Absurd", "YOLO" = Unanswered
+-- "Alone" = Single
+-- "Together" = Couple
+- Income : empty lines were deleted
+- Year of Birth : Taking off a few outliers born before 1940
+- Graduation
+-- "Graduation" = Bachelor
+-- "Basic" = High school 
+-- "2nd cycle" = master
