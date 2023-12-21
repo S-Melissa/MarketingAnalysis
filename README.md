@@ -9,7 +9,7 @@ The dataset can be found here, under the name Marketing Campain Results : https:
 
 
 
-**The questions answered in this analysis are : **
+**The questions answered in this analysis are :**
 
 
 1. What factors are significantly related to the number of web purchases?
